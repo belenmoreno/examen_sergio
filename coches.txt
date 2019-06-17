@@ -1,0 +1,4 @@
+toyota auris rojo 5_puertas 230_km_por_hora
+seat ibiza negro 3_puertas 185_km_por_hora
+mercedes_benz C gris 5_puertas 290_km_por_hora
+ford focus azul 3_puertas 205_km_por_hora
